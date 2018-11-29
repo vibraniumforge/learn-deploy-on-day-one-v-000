@@ -1,6 +1,6 @@
 /* GLOBAL STYLES
 ======================== */
-
+https://imgur.com/a/FHq7XsB
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -131,6 +131,14 @@ a:visited {
   position: relative;
   display: block;
   height: 400px;
+}
+
+#gregory-morgan-card {
+  background-image: url("https://imgur.com/9fzbpeO");
+}
+
+#gregory-morgan-cover {
+  background-image: url("https://imgur.com/9fzbpeO");
 }
 
 #joe-burgess-card {
